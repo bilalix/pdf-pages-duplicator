@@ -1,0 +1,6 @@
+.input-file-dummy, .input-file-btn {
+  cursor: pointer;
+}
+.input-file-dummy[readonly] {
+  background-color: white;
+}
