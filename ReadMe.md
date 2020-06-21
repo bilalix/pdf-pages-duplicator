@@ -3,7 +3,7 @@
 PDF Pages Duplicator
 
 # TODO
-+ [ ] Restructure the project
++ [x] Restructure the project
 + [ ] Create Config separately
 + [ ] Edit readme
     + [ ] Add how to
@@ -14,7 +14,7 @@ PDF Pages Duplicator
 + [ ] Add Tests
 + [ ] CI/CD
 + [ ] Add drag and drop
-+ [ ] Use Docker
++ [x] Use Docker
 + [ ] Deploy on heroku
 + [ ] Add login
 
